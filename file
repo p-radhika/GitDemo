@@ -1,17 +1,18 @@
 hello world
 
 
-change 1:-> for login feature (under work item 1) , enhancement in login feature
+change 1:-> For login feature (under work item 1) , enhancement in login feature
 
-change 2 :-> for fixing bug1
+change 2 :-> For fixing bug1
 
-change 3 :-> by team mate on master for WI4
+change 3 :-> By team mate on master for WI4
 
-change 4 :-> bug2 fixing
+change 4 :-> Bug2 fixing
 
-change 5 :-> by team mate on master for WI5
+change 5 :-> By team mate on master for WI5
 
-change 6 :-> for enhancement 1
+change 6 :-> For enhancement 1
 
-change 7:-> push to origin master from local master
+change 7:-> Push to origin master from local master
 
+change 8 :-> by team mate on remote to test rebase
