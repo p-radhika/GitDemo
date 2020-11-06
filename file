@@ -1,7 +1,6 @@
-hello world
+hello world...
 
-
-change 1:-> For login feature (under work item 1) , enhancement in login feature
+change 1 :-> for login feature (under work item 1) , enhancement in login feature
 
 change 2 :-> For fixing bug1
 
@@ -13,6 +12,9 @@ change 5 :-> By team mate on master for WI5
 
 change 6 :-> For enhancement 1
 
-change 7:-> Push to origin master from local master
+change 7 :-> Push to origin master from local master
 
 change 8 :-> by team mate on remote to test rebase
+
+change 9 :-> on local master to test rebase for WI8
+
